@@ -1,0 +1,22 @@
+body{
+    background-image: url(../assets/images/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* .new-arrival-wrapper{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    justify-content: center;
+}
+.arrival-img h2,h3,p{
+    color: white;
+} */
+
+.card-wrap{
+    background-image: url(../assets/images/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
